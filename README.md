@@ -1,5 +1,5 @@
 # Setup 
-# LWJ change 01
+# LWJ change 02
 System Package Managers: apt-get, snap, yum, apt, homebrew, chocolately
 Python Package Managers: pip, conda
 
