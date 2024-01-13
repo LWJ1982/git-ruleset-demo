@@ -15,4 +15,5 @@ if __name__ == '__main__':
     print("Hosting on http://localhost:8080")
     httpd = HTTPServer(server_address, ExampleHandler)
     httpd.serve_forever()
+
 # A simple change makes a difference
