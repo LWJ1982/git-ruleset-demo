@@ -4,7 +4,7 @@ print("Hello, World!")
 
 # Data Types
 n1 = 2            # int
-n2 = 100.23         # float
+n2 = 100.23         # decimal
 name = 'John'      # string
 list1 = ['apple', 'orange', 'kiwi'] # list
 dict1 = {'name': 'John Doe', 'age': 21, 'country': 'SG'} # dictionary
