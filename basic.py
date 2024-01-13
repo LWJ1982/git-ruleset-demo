@@ -1,5 +1,5 @@
-# Sample Python
-
+# Sample Python 
+print("Hello, World!")
 
 # Data Types
 n1 = 2            # int
